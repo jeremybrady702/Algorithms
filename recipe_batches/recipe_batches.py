@@ -2,8 +2,8 @@
 
 import math
 
-curr_ingredients = ({})
-recipe_ingredients = ({})
+curr_ingredients = {}
+recipe_ingredients = {}
 
 def recipe_batches(recipe, ingredients):
   pass
